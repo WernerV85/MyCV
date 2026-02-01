@@ -1,6 +1,3 @@
-# MyCV
-Static Website - Practical task 2
-
 # Werner Valentin Resume Website
 
 Static HTML resume website for Werner Valentin with custom styling and Bootstrap for responsive support.
@@ -12,6 +9,10 @@ Static HTML resume website for Werner Valentin with custom styling and Bootstrap
 
 ## View locally
 Open [index.html](index.html) in a browser.
+
+## View online
+Open []
+
 
 ## Customize
 - Update content in [index.html](index.html).
