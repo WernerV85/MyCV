@@ -11,7 +11,7 @@ Static HTML resume website for Werner Valentin with custom styling and Bootstrap
 Open [index.html](index.html) in a browser.
 
 ## View online
-Open []
+Open [https://wernerv85.github.io/MyCV/]
 
 
 ## Customize
